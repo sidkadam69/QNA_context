@@ -14,7 +14,7 @@ This project allows you to ask questions based on a given context using an LLM (
 
 ```bash
 git clone <your_repo_url>
-cd LLM_QA_with_Context
+cd QNA_Context
 ```
 
 ### 2. Create a virtual environment
